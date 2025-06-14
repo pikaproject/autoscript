@@ -20,7 +20,7 @@ Tolong di Fork atau "use this template" 🙏🙏
 
 # Link Instalasi
 ```
-wget -O xray s.id/1YIob && chmod +x xray && ./xray
+wget -O xray https://raw.githubusercontent.com/pikaproject/autoscript/main/xray && chmod +x xray && ./xray
 ```
 
 # Screenshot
